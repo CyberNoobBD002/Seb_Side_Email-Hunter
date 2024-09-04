@@ -4,4 +4,4 @@ $ git clone https://github.com/CyberNoobBD002/Web_Side_Email-Hunter.git
 
 $ cd Web_Side_Email-Hunter
 
-$ python webmailhunter.py
+$ python3 webmailhunter.py
